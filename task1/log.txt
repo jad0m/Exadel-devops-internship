@@ -1,0 +1,11 @@
+commit 970a6f67d22f6670a58caa06e29828f9039e5ca6
+Author: Dima Moshna <demetriy.moshna@gmail.com>
+Date:   Thu Jun 10 16:39:24 2021 +0300
+
+    status.txt file added with git status messages.
+
+commit 08a897deff8e9c63aa9b16bcbca85f276487a8f9
+Author: Dima Moshna <demetriy.moshna@gmail.com>
+Date:   Thu Jun 10 16:28:39 2021 +0300
+
+    add .gitignore
