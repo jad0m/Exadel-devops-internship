@@ -33,7 +33,7 @@ Make sure port 8080 on the host is not already being in use.
 ## Deploy with docker-compose
 
 ```
-$ docker-compose up -d
+$ docker-compose up --scale workers=5 -d
 Creating network "spring-postgres_default" with the default driver
 Building backend
 Step 1/11 : FROM maven:3.5-jdk-9 AS build
