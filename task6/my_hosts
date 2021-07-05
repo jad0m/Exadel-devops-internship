@@ -1,0 +1,9 @@
+# usually placed to:
+# example of /etc/ansible/hosts file
+# sudo vi /etc/ansible/hosts
+# 
+# to use with current path
+# nano ./my_hosts
+
+[awsec2instances]
+ec2-3-121-126-128.eu-central-1.compute.amazonaws.com
